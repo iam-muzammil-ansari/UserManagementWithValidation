@@ -1,4 +1,5 @@
 # User Management With Validation
+# User Management System
 
 ## Table of Contents
 - [Frameworks and Language Used](#frameworks-and-language-used)
@@ -6,10 +7,27 @@
 - [Data Flow](#data-flow)
 
   - [Controller](#controller)
-
   - [Services](#services)
   - [Repoitory](#repository)
   - [Database Design](#database-design)
+
+- [Validation Annotations](#validation-annotations)
+
+  - [Model (User.java)](#model-userjava)
+  - [Controller (UserController.java)](#controller-usercontrollerjava)
+  - [Service (UserService.java)](#service-userservicejava)
+  - [Repository (UserRepo.java)](#repository-userrepojava)
+
+- [Data Structure Used](#data-structure-used)
+
+- [Project Summary](#project-summary)
+
+- [Getting Started](#getting-started)
+
+- [Testing Endpoints](#testing-endpoints)
+
+- [License](#license)
+
 
 ___
 
