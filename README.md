@@ -1,5 +1,4 @@
 # User Management With Validation
----
 
 ## Table of Contents
 - [Frameworks and Language Used](#frameworks-and-language-used)
